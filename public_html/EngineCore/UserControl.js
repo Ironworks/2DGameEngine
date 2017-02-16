@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-//Added a comment 
 function userControl(event) {
     var keycode;
     if (window.event) { //IE
